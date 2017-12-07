@@ -9,6 +9,6 @@ install:
 script:
   - python3 test_calc.py
   - python3 test_duckduckgo.py
-  - behave
+  
 
 # - pytest 
